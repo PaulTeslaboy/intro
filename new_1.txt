@@ -1,0 +1,8 @@
+row_1
+row_2
+
+
+git status
+[A[C[C[C[C[C[C[A[A[[A[A[C[C[C[C[Cf
+^%ввуауа[A[B[Cв[A^c
+[A[C/wq
